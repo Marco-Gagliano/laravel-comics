@@ -8,11 +8,11 @@
     <div class="container">
         <div class="row">
 
-            <div class="col-6 my-3">
+            <div class="col-3 my-3">
                 <img src="{{$comic->image}}" alt="">
             </div>
 
-            <div class="col-6 my-3">
+            <div class="col-9 my-3">
                 <ul>
                     <li class="d-flex justify-content-center align-content-center my-5">
                         <h3>{{$comic->title}}</h3>

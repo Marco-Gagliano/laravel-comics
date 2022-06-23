@@ -3,6 +3,6 @@
 
 @section('content')
 
-    <h1>about</h1>
+    <h1>contact</h1>
 
 @endsection
